@@ -13,7 +13,7 @@ L'installation d'un serveur Portainer ne doit pas être exposée au public. L'ac
 Copie des sources dans le répertoire ``portainer_server`` :
 
 ```shell
-git clone https://github.com/SergeBregliano/docker-portainer-server.git portainer_agent
+git clone https://github.com/SergeBregliano/docker-portainer-server.git portainer_server
 ```
 
 Lancer le système de mise à jour :
