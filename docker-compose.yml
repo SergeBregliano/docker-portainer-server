@@ -1,7 +1,7 @@
 services:
 
   portainer:
-    image: portainer/portainer-ce:latest
+    image: portainer/portainer-ce:lts
     restart: unless-stopped
     container_name: portainer_server
     ports:
